@@ -18,6 +18,8 @@ public class UMInterceptor implements HandlerInterceptor {
       
       String text = "{\"a\":\"abc\"}";
       // fasdfbdsa 
+      
+      //getters and setter
 
       response.setContentType("application/json");  
       response.setCharacterEncoding("UTF-8"); 
